@@ -1,4 +1,4 @@
-# Building a COVID-19 Biomedical Knowledge Graph
+# Building a COVID-19 based Biomedical Knowledge Graph
 <p align="center">
   <img src="https://github.com/akhilchibber/COVID19-Knowledge-Graph/blob/main/COVID-19.jpg?raw=true" alt="earthml Logo">
 </p>
